@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\home\\OneDrive\\codingwithtom\\rc2\\RC2Demo2\\RC2Demo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\home\\OneDrive\\codingwithtom\\rc2\\RC2Demo2\\RC2Demo.Client\\obj\\Debug\\net8.0\\compressed\\s3nocdu1qn.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\home\\OneDrive\\codingwithtom\\rc2\\RC2Demo2\\RC2Demo.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\home\\OneDrive\\codingwithtom\\rc2\\RC2Demo2\\RC2Demo.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RC2Demo.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RC2Demo.Client.props",
+      "PackagePath": "build\\RC2Demo.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RC2Demo.Client.props",
+      "PackagePath": "buildMultiTargeting\\RC2Demo.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RC2Demo.Client.props",
+      "PackagePath": "buildTransitive\\RC2Demo.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

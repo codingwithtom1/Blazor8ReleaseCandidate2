@@ -1,0 +1,34 @@
+﻿@page "/customers"
+@using Microsoft.AspNetCore.Authorization
+@using RC2Demo.Client.Services
+@using RC2Demo.Shared
+@inject IAPIClient client
+@attribute [Authorize]
+@attribute [RenderModeInteractiveAuto]
+
+<PageTitle>Customers</PageTitle>
+@if (customers is null)
+{
+    <span>Waiting...</span>
+}
+else
+{
+    <ul>
+        @foreach (CustomerDTO customer in customers)
+        {
+            <li>@customer.Id @customer.Name</li>
+        }
+    </ul>
+
+}
+
+@code {
+    List<CustomerDTO>? customers = null;
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (client.RunningOnClient())
+            customers = await client.GetCustomers();
+        
+    }
+}

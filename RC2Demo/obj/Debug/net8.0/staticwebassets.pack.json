@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\home\\OneDrive\\codingwithtom\\rc2\\RC2Demo2\\RC2Demo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RC2Demo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RC2Demo.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\OneDrive\\codingwithtom\\rc2\\RC2Demo2\\RC2Demo\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\OneDrive\\codingwithtom\\rc2\\RC2Demo2\\RC2Demo\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\home\\OneDrive\\codingwithtom\\rc2\\RC2Demo2\\RC2Demo\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\home\\OneDrive\\codingwithtom\\rc2\\RC2Demo2\\RC2Demo\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RC2Demo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RC2Demo.props",
+      "PackagePath": "build\\RC2Demo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RC2Demo.props",
+      "PackagePath": "buildMultiTargeting\\RC2Demo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RC2Demo.props",
+      "PackagePath": "buildTransitive\\RC2Demo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
